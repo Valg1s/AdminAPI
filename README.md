@@ -392,3 +392,7 @@ GET /api/v1/products/get_prod_in_pickup/
 ### Дозволи:
 
   -  Користувач повинен бути автентифікований з дійсним токеном.
+
+
+## Для тестування за допомогою Postman:
+![изображение](https://github.com/Valg1s/AdminAPI/assets/84439838/1e9cf218-c00d-41fb-94a7-f3c6ae0dab50)
